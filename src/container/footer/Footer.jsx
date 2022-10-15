@@ -19,26 +19,26 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
-        <a href="https://www.twitter.com/nexzonexglobal" target="_blank" without rel="noreferrer">Twitter</a>
+        <a href="https://www.twitter.com/Ethereum Latinumxglobal" target="_blank" without rel="noreferrer">Twitter</a>
         <a href="https://www.facebook.com/neztoken/" target="_blank" without rel="noreferrer">Facebook</a>
-        <a href="https://t.me/NEXZoneXBot" target="_blank" without rel="noreferrer">Telegram</a>
-        <a href="https://instagram.com/nexzonexglobal" target="_blank" without rel="noreferrer">Instagram</a>
+        <a href="https://t.me/Ethereum LatinumXBot" target="_blank" without rel="noreferrer">Telegram</a>
+        <a href="https://instagram.com/Ethereum Latinumxglobal" target="_blank" without rel="noreferrer">Instagram</a>
       </div>
       <div className="gpt3__footer-links_div">
-        <h4>NEXZoneX Global Exchange</h4>
-        <a href="https://nexzonex.com/login" target="_blank" without rel="noreferrer">Login</a>
-        <a href="https://nexzonex.com/signup" target="_blank" without rel="noreferrer">Signup</a>
-        <a href="https://www.nexzoneglobal.com/aboutus" target="_blank" without rel="noreferrer">About US</a>
+        <h4>Ethereum LatinumX Global Exchange</h4>
+        <a href="https://Ethereum Latinumx.com/login" target="_blank" without rel="noreferrer">Login</a>
+        <a href="https://Ethereum Latinumx.com/signup" target="_blank" without rel="noreferrer">Signup</a>
+        <a href="https://www.Ethereum Latinumglobal.com/aboutus" target="_blank" without rel="noreferrer">About US</a>
       </div>
       <div className="gpt3__footer-links_div">
           <h4>Get in Touch</h4>
-      <a href="https://www.twitter.com/nexzonexglobal" target="_blank" without rel="noreferrer">Twitter DM</a>
-      <a href="mailto:support@nexzonex.com" target="_blank" without rel="noreferrer">support@nexzonex.com</a>
+      <a href="https://www.twitter.com/Ethereum Latinumxglobal" target="_blank" without rel="noreferrer">Twitter DM</a>
+      <a href="mailto:support@Ethereum Latinumx.com" target="_blank" without rel="noreferrer">support@Ethereum Latinumx.com</a>
       </div>
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2021 NEXzoneX Global. All rights reserved.</p>
+      <p>@2021 Ethereum LatinumX Global. All rights reserved.</p>
     </div>
   </div>
 );

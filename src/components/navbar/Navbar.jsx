@@ -42,8 +42,8 @@ const Navbar = () => {
           <p><a href="#buy">NFT Marketplace</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
-          <p><a href="https://nexzonex.com/login/">Sign in</a></p>
-          <a className="gpt3__navbar-sign-btn" href="https://nexzonex.com/signup">Sign Up</a>
+          <p><a href="http://137.184.151.173:8080/">Sign in</a></p>
+          <a className="gpt3__navbar-sign-btn" href="/">Sign Up</a>
           </div>
         </div>
         )}
