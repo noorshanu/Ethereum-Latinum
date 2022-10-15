@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+body {
+    background: var(--color-bg);
+
+}
+a{
+    color: unset;
+    text-decoration: none;
+}
+.gradient__bg{
+
+    /* ff 3.6+ */
+    background:-moz-radial-gradient(circle at 0% 0%, rgba(13, 30, 66, 1) 0%, rgba(27, 18, 110, 1) 14%, rgba(0, 0, 76, 1) 71%);
+
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-radial-gradient(circle at 0% 0%, rgba(13, 30, 66, 1) 0%, rgba(27, 18, 110, 1) 14%, rgba(0, 0, 76, 1) 71%);
+
+    /* opera 11.10+ */
+    background:-o-radial-gradient(circle at 0% 0%, rgba(13, 30, 66, 1) 0%, rgba(27, 18, 110, 1) 14%, rgba(0, 0, 76, 1) 71%);
+
+    /* ie 10+ */
+    background:-ms-radial-gradient(circle at 0% 0%, rgba(13, 30, 66, 1) 0%, rgba(27, 18, 110, 1) 14%, rgba(0, 0, 76, 1) 71%);
+
+    /* global 92%+ browsers support */
+    background:radial-gradient(circle at 0% 0%, rgba(13, 30, 66, 1) 0%, rgba(27, 18, 110, 1) 14%, rgba(0, 0, 76, 1) 71%);
+
+}
+.gradient__text {
+    background: var(--gradient-text);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.section__padding{
+    padding: 4rem 6rem;
+
+}
+
+.section__margin{
+    margin: 4rem 6rem;
+}
+.scale-up-hor-right {
+	-webkit-animation: scale-up-hor-right 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	        animation: scale-up-hor-right 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+ @-webkit-keyframes scale-up-hor-right {
+    0% {
+      -webkit-transform: scaleX(0.4);
+              transform: scaleX(0.4);
+      -webkit-transform-origin: 100% 100%;
+              transform-origin: 100% 100%;
+    }
+    100% {
+      -webkit-transform: scaleX(1);
+              transform: scaleX(1);
+      -webkit-transform-origin: 100% 100%;
+              transform-origin: 100% 100%;
+    }
+  }
+  @keyframes scale-up-hor-right {
+    0% {
+      -webkit-transform: scaleX(0.4);
+              transform: scaleX(0.4);
+      -webkit-transform-origin: 100% 100%;
+              transform-origin: 100% 100%;
+    }
+    100% {
+      -webkit-transform: scaleX(1);
+              transform: scaleX(1);
+      -webkit-transform-origin: 100% 100%;
+              transform-origin: 100% 100%;
+    }
+  }
+  
+  @media screen and (max-width: 700px){
+      .section__padding{
+          padding: 4rem;
+      }
+      .section__margin{
+          margin: 4rem;
+      }
+  }
+  
+    
+  @media screen and (max-width: 550px){
+    .section__padding{
+        padding: 4rem 2rem;
+    }
+    .section__margin{
+        margin: 4rem 2rem;
+    }
+}
+
+  
+
+
