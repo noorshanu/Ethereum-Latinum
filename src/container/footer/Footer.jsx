@@ -9,7 +9,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-btn">
-      <a href="0x64db646c9354DB2249Ff4a08Bc3F9bAfd60096C1">Buy NEX</a>
+      <a href="0x64db646c9354DB2249Ff4a08Bc3F9bAfd60096C1">Buy Ethereum Latinum</a>
     </div>
 
     <div className="gpt3__footer-links">

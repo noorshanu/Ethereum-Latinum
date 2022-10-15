@@ -5,7 +5,7 @@ const About = () => {
     return (
         <div className="gpt3__about section__margin" id="about">
         <div className="gpt3__about-feature">
-          <Feature title="What is NEX?" text="NEX is the native token for Ethereum LatinumX GLOBAL Exchange, we created NEX for the support for our Exchange and as a community token , Later on we will be adding more important utility to the NEX Token , with lowest supply and highest on demand overall we could all grow together and aim for the moon. lets join the crypto revolution through NEX" />
+          <Feature title="What is Ethereum Latinum?" text="Ethereum Latinum is the native token for Ethereum LatinumX GLOBAL Exchange, we created Ethereum Latinum for the support for our Exchange and as a community token , Later on we will be adding more important utility to the Ethereum Latinum Token , with lowest supply and highest on demand overall we could all grow together and aim for the moon. lets join the crypto revolution through Ethereum Latinum" />
         </div>
         <div className="gpt3__about-heading">
           <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
