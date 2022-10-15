@@ -8,9 +8,9 @@ const Header = () => {
         <div className="gpt3__header section__padding" id="home">
             <div className="gpt3__header-content">
                 <h1 className="gradient__text">
-                   Trade BTC, ETH, NEZ , Ethereum Latinum , TRX on a simple click
+                   Trade BTC, ETH,Ethereum Latinum, TRX on a simple click
                 </h1>
-                <p>The Crypto Exchange with ease of access , Trade NEZ , Ethereum Latinum , BTC and many more crypto Available within your finger tip. Maybe we were born early to explore the Galaxy but sure we are on time to know more about Crypto. Financial System will emerge to this decentralized future and you can join us to explore more about it .</p>
+                <p>The Crypto Exchange with ease of access ,  Ethereum Latinum , BTC and many more crypto Available within your finger tip. Maybe we were born early to explore the Galaxy but sure we are on time to know more about Crypto. Financial System will emerge to this decentralized future and you can join us to explore more about it .</p>
                 <div className="gpt3__header-content__input section__padding">
                     
                     <button type="button" href="https://nexzonex.com/trade/add/tabs">Market</button>
